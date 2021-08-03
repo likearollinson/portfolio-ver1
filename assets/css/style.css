@@ -1,3 +1,22 @@
-body {
+.nav-link,
+.fa-bars {
+  color: #f0cea8;
+}
+
+.nav-bold {
+  color: #f0cea8;
+  font-weight: bold;
+}
+
+.dom-body {
   background-color: #8fbcdb;
+}
+
+.btn {
+  background-color: #f0cea8;
+  color: black;
+}
+
+.examples {
+  font-weight: bold;
 }
