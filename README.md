@@ -4,7 +4,7 @@
 
 ## Link to Deployed Site
 
-[Brad's Portfolio](https://likearollinson.github.io/unc-hw-8-portfolio/)
+[Brad's Portfolio](https://likearollinson.github.io/portfolio-ver1/)
 
 ## Table of Contents
 
